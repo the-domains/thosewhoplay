@@ -2,6 +2,7 @@ name: thosewhoplay
 favicon: null
 layout_spectrum: 0.65698
 typography_spectrum: 0.8606834926176816
+title: Those Who Play
 cta:
   domain: null
   bucket: null
