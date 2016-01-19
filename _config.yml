@@ -1,0 +1,28 @@
+name: thosewhoplay
+favicon: null
+layout_spectrum: 0.5617415967863053
+typography_spectrum: 0.8606834926176816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.21602759207598865
+  lightness: 0.5492624095641077
+  saturation: 0.6036245464347303
+  rhythmicContrast: 0.14592215116135776
+purpose: []
